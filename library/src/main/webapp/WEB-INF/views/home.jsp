@@ -7,6 +7,8 @@
 <title>Home page</title>
 </head>
 <body>
-	<h1>My home page</h1>
+	<h1>Library Home</h1>
+	<p>This page will contain a header, footer, search bar and links to example posts </p>
+	<p>I will also add some css so it looks good</p>
 </body>
 </html>
