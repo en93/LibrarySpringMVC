@@ -10,5 +10,6 @@
 	<h1>Library Home</h1>
 	<p>This page will contain a header, footer, search bar and links to example posts </p>
 	<p>I will also add some css so it looks good</p>
+	<a href="/library/about">about</a>
 </body>
 </html>
