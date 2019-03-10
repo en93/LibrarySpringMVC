@@ -7,7 +7,6 @@
 <title>About</title>
 </head>
 <body>
-
 	<h1>This is my about page</h1>
 	<a href="/library">home</a>
 
