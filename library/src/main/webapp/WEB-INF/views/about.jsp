@@ -7,8 +7,10 @@
 <title>About</title>
 </head>
 <body>
+
+	<%@include file="../fragments/header.jspf"%>
+	
 	<h1>This is my about page</h1>
-	<a href="/library">home</a>
 
 </body>
 </html>

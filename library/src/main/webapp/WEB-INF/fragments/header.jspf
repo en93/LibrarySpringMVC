@@ -1,0 +1,6 @@
+<header>
+	<a href="/library">Home</a>
+	<a href="/library/about">About</a>
+	<a href="/library/catalogue">Catalogue</a>
+	<a href="/library/profile">Your profile</a>
+</header>
